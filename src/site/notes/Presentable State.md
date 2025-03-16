@@ -3,6 +3,11 @@
 ---
 
 
+Link to Drive (All Markdown Documents + PDF) : https://drive.google.com/drive/folders/1iN1xTIpAH9hCwa0uEKYq43PEeO2Rn3x0?usp=sharing
+Best Idea would probably be to download the drive and open the "Presentable state" Document in Obsidian so that all PDFs are linked and references (links below) point you to the exact relevant paragraph selected.
+
+---
+
 [[AGV application safety issues research.pdf#page=5&selection=46,0,61,38|AGV application safety issues research, page 5]]
 Warning Lights 
 - a visible safety parameter of the tow truck's area of operation [[Design, evaluation and possible alternatives for.pdf#page=9&selection=32,0,32,32|Design, evaluation and possible alternatives for, page 9]]
