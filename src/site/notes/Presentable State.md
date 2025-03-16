@@ -24,6 +24,7 @@ Emergency stop on the AGV
 ![Pasted image 20250223180328.png](/img/user/images/Pasted%20image%2020250223180328.png)
 In this AGV, the emergency stop consists of 2 accessible buttons on the vehicle. They are both equal but independent of one another. 
 We could do the same for the tow truck. 
+Buttons used for the emergency stop, clearly visible and easy to press.
 ![Pasted image 20250223180511.png](/img/user/images/Pasted%20image%2020250223180511.png)
 ![Pasted image 20250223180747.png](/img/user/images/Pasted%20image%2020250223180747.png)
 
