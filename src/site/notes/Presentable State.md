@@ -41,7 +41,7 @@ Since there is no real information about adding emergency stops to the environme
 
 
 
-Future thinking to do: 
+Future thinking to do from the readings I did: 
 - Dynamic safety field switch according to speed (future issue) but this gives the idea that we may need to either lower our speed depending on where we are (more change of people is inside)) [[Design, evaluation and possible alternatives for.pdf#page=15&selection=117,0,132,68|Design, evaluation and possible alternatives for, page 15]]
 - We should also have routine checks on not just the sensors, the hardware and overall health but of the safety system as well.
 - A basic requisite common to all categories is that the SRP/CS must be designed to resist the normal operating stresses and the influence of predictable disturbances (dust, chips. . . ) and external influences like vibration or electromagnetic interference. [[Design, evaluation and possible alternatives for.pdf#page=19&selection=51,0,55,70|Design, evaluation and possible alternatives for, page 19]]
