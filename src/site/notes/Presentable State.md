@@ -4,7 +4,7 @@
 
 
 Link to Drive (All Markdown Documents + PDF) : https://drive.google.com/drive/folders/1iN1xTIpAH9hCwa0uEKYq43PEeO2Rn3x0?usp=sharing
-Best Idea would probably be to download the drive and open the "Presentable state" Document in Obsidian so that all PDFs are linked and references (links below) point you to the exact relevant paragraph selected.
+Best Idea would be to download the drive and open the "Presentable state" Document in Obsidian so that all PDFs are linked and references (links below) point you to the exact relevant paragraph selected.
 
 ---
 
